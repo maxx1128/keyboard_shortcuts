@@ -1,51 +1,23 @@
 # Shortcut Commands
 
-## Alfred
-
-[install it here](http://www.alfredapp.com/)
-
-You can use Alfred to
-- open an app
-- search google
-- search wikipedia
-- create custom search
-- use as calculator, press enter to copy result
-- define a word
-- get spelling on a word, press enter to copy proper spelling into clipboard
-
-## Gmail
-
-1. Setup keyboard shortcuts for gmail inside gmail settings.
-2. Setup priority inbox inside the gmail settings - in the inbox pane
-
-`?` : show keyboard shortcuts
-
-`j` : move downward
-
-`k` : move upward
-
-`o` : open
-
-`s` (while open) : star / unstar
-
-`r` : reply
-
-`a` : reply all
-
-`u` : return to main window
-
-`gi` : return to inbox
-
 ## OSX
-`command + tab` : switch open applications
+``command + tab + (tab/`)`` : switch between open applications
 
-<code>command + &#96;</code> : (when already in command + tab) switch open applications in reverse
+``command + ` `` : goes between different windows of current program
 
-<code>command + &#96;</code> : goes between different windows of current program
+`command + tab + option` : expand selected app
 
-`command + q` (while in open applications) : quit an application
+`command + q` (while in an open application) : quit an application
+
+`command + m` : minimize active window
+
+`command + h` : hide windows of current app
 
 `command + d` : when given "don't save, cancel, and save", triggers "don't save"; also short for saving something to the desktop
+
+`command + spacebar` : Open spotlight search
+
+`command + delete` : Move item(s) to trash
 
 ## Chrome / Sublime /  Bash / most apps with tabs
 
@@ -55,7 +27,7 @@ You can use Alfred to
 
 `command + w` : close tab or window if only one tab
 
-`shift + command + w` : close window with multiple open tabs
+`command + option + w` : close window with multiple open tabs
 
 `command + q` : quit application
 
@@ -71,55 +43,10 @@ You can use Alfred to
 
 `alt + command + arrow keys` : move right or left tabs
 
-## Vimium
-[Install it first](https://vimium.github.io/)
-
-`?` : show commands
-
-`j` : scroll down
-
-`k` : scroll up
-
-`f` : show links
-
-`F` : show links to be opened in new tab
-
-`option + f` : open multiple links in different tabs
-
-`gg` : go to top of page
-
-`G` : go to bottom of page
-
-`u` : scroll up more quickly
-
-`d` : scroll down more quickly
-
-`yy` : copy clipboard contents
-
-`r` : reload the page
-
-`x` : close tab
-
-`gi` : go to first text field...`tab` to switch between them
-
-`gu` : up the URL hierarchy
-
-`gU` : to the root URL
-
-`/` : find mode...`return` to toggle
-
-`yt` : duplicate current tab
-
-`gE` : edit current URL then open in a new tab
-
-`H` : go back in history
-
-`L` : go forward in history
-
-`option + p` : pin a tab
-
 ## Chrome
 `command + r` : reload page
+
+`command + d` : bookmark page
 
 `command + option + j` : open the javascript console
 
